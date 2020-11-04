@@ -1,0 +1,13 @@
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\bin\Debug\netcoreapp3.1\SoluciónProfe.exe
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\bin\Debug\netcoreapp3.1\SoluciónProfe.deps.json
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\bin\Debug\netcoreapp3.1\SoluciónProfe.runtimeconfig.json
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\bin\Debug\netcoreapp3.1\SoluciónProfe.runtimeconfig.dev.json
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\bin\Debug\netcoreapp3.1\SoluciónProfe.dll
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\bin\Debug\netcoreapp3.1\SoluciónProfe.pdb
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\obj\Debug\netcoreapp3.1\SoluciónProfe.csprojAssemblyReference.cache
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\obj\Debug\netcoreapp3.1\SoluciónProfe.AssemblyInfoInputs.cache
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\obj\Debug\netcoreapp3.1\SoluciónProfe.AssemblyInfo.cs
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\obj\Debug\netcoreapp3.1\SoluciónProfe.csproj.CoreCompileInputs.cache
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\obj\Debug\netcoreapp3.1\SoluciónProfe.dll
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\obj\Debug\netcoreapp3.1\SoluciónProfe.pdb
+G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\obj\Debug\netcoreapp3.1\SoluciónProfe.genruntimeconfig.cache
