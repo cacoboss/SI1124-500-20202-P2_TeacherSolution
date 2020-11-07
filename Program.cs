@@ -1,4 +1,5 @@
 ﻿using System;
+using Drivers.DriverClasses;
 
 namespace SoluciónProfe
 {
@@ -6,7 +7,7 @@ namespace SoluciónProfe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Asignemets_Creator.p_listOfAsignements.ToString();
         }
     }
 }

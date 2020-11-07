@@ -1,6 +1,6 @@
 using System;
 
-namespace SoluciónProfe
+namespace SoluciónProfe.Models.People
 {
     public class Teacher : Person
     {
