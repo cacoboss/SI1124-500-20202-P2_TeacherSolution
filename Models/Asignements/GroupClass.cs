@@ -3,8 +3,9 @@ using SoluciónProfe.Models.People;
 
 namespace SoluciónProfe.Models.Asignements
 {
-    public class GroupClass : Asignement
+    public class GroupClass
     {
+        public Asignement asignement;
         public int group;
         public Teacher teacher;
         public Schedule[] schedule = new Schedule[3];

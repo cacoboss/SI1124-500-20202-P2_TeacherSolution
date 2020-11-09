@@ -3,7 +3,7 @@ using System.Text;
 using SoluciónProfe.Models.Asignements;
 
 
-namespace Drivers.DriverClasses
+namespace SoluciónProfe.Drivers.DriverClasses
 {
     public class Asignemets_Creator
     {
@@ -11,12 +11,12 @@ namespace Drivers.DriverClasses
         private static string _path =
             @"G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\Drivers\DriverObjects\Asignements.txt";
 
-        private static Asignement[] _f_listOfAsignements;
+        private static Asignement[] _f_listOfAsignements = new Asignement[20];
         public static Asignement[] p_listOfAsignements
         {
             get
             {
-                if(_f_listOfAsignements.Length == 0)
+                if(_f_listOfAsignements[0] == null)
                 {
                     _f_listOfAsignements = _CreateList();
                 }
@@ -60,6 +60,13 @@ namespace Drivers.DriverClasses
                 sb.AppendLine(a.ToString());
             }
             return sb.ToString();
+        }
+        public static void Start()
+        {
+            if(_f_listOfAsignements[0] == null)
+                {
+                    _f_listOfAsignements = _CreateList();
+                }
         }
     }
 }
