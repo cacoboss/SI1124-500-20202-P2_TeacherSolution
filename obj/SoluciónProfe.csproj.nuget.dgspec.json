@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\UNINPAHU\\SI1124-500-2020_2\\2do Corte\\SoluciónProfe\\SoluciónProfe.csproj": {}
+    "C:\\Users\\Borking\\Desktop\\trabajos universidad\\Programacion\\SoluciónProfe\\SoluciónProfe.csproj": {}
   },
   "projects": {
-    "G:\\UNINPAHU\\SI1124-500-2020_2\\2do Corte\\SoluciónProfe\\SoluciónProfe.csproj": {
+    "C:\\Users\\Borking\\Desktop\\trabajos universidad\\Programacion\\SoluciónProfe\\SoluciónProfe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\UNINPAHU\\SI1124-500-2020_2\\2do Corte\\SoluciónProfe\\SoluciónProfe.csproj",
+        "projectUniqueName": "C:\\Users\\Borking\\Desktop\\trabajos universidad\\Programacion\\SoluciónProfe\\SoluciónProfe.csproj",
         "projectName": "SoluciónProfe",
-        "projectPath": "G:\\UNINPAHU\\SI1124-500-2020_2\\2do Corte\\SoluciónProfe\\SoluciónProfe.csproj",
-        "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "G:\\UNINPAHU\\SI1124-500-2020_2\\2do Corte\\SoluciónProfe\\obj\\",
+        "projectPath": "C:\\Users\\Borking\\Desktop\\trabajos universidad\\Programacion\\SoluciónProfe\\SoluciónProfe.csproj",
+        "packagesPath": "C:\\Users\\Borking\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Borking\\Desktop\\trabajos universidad\\Programacion\\SoluciónProfe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Borking\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

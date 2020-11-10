@@ -11,7 +11,7 @@ namespace SoluciónProfe.Drivers.DriverClasses
         #region Static Instances
 
         private static string _path = 
-            @"G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\Drivers\DriverObjects\StudentData.txt";
+            @"C:\Users\Borking\Desktop\trabajos universidad\Programacion\SoluciónProfe\Drivers\DriverObjects\StudentData.txt";
         private static Student[] _f_studentList = new Student[20];
         public static Student[] p_studentList 
         {
@@ -54,7 +54,7 @@ namespace SoluciónProfe.Drivers.DriverClasses
                 email:      data[2],
                 id:         Convert.ToUInt32(data[3]),
                 studentID:  Convert.ToUInt32(data[4])
-                                );
+            );
         } 
         private static string[] _NullSpaceDetector(string s)
         {

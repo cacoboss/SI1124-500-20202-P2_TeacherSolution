@@ -9,7 +9,7 @@ namespace SoluciónProfe.Drivers.DriverClasses
     {
         #region Static Instances
         private static string _path =
-            @"G:\UNINPAHU\SI1124-500-2020_2\2do Corte\SoluciónProfe\Drivers\DriverObjects\Asignements.txt";
+            @"C:\Users\Borking\Desktop\trabajos universidad\Programacion\SoluciónProfe\Drivers\DriverObjects\Asignements.txt";
 
         private static Asignement[] _f_listOfAsignements = new Asignement[20];
         public static Asignement[] p_listOfAsignements
@@ -47,10 +47,10 @@ namespace SoluciónProfe.Drivers.DriverClasses
         {
             string[] data = s.Split(";");
             return new Asignement(
-                                semester: Convert.ToInt32(data[0]),
-                                prefix: data[1],
-                                number: Convert.ToInt32(data[2]) ,
-                                name: data[3]);
+                semester: Convert.ToInt32(data[0]),
+                prefix: data[1],
+                number: Convert.ToInt32(data[2]) ,
+                name: data[3]);
         }
         public static new string ToString()
         {
